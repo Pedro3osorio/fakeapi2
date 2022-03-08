@@ -35,6 +35,36 @@
          "valor":"40"
       }
    ],
+   "dataSIActividad":[
+      {
+         "mes":"enero",
+         "valor":"10"
+      },
+      {
+         "mes":"febrero",
+         "valor":"1"
+      },
+      {
+         "mes":"marzo",
+         "valor":"8"
+      },
+      {
+         "mes":"abril",
+         "valor":"181"
+      },
+      {
+         "mes":"mayo",
+         "valor":"5"
+      },
+      {
+         "mes":"junio",
+         "valor":"25"
+      },
+      {
+         "mes":"julio",
+         "valor":"140"
+      }
+   ],
    "profile":{
       "name":"typicode"
    },
