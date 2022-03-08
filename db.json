@@ -8,7 +8,7 @@
    "profile":{
       "name":"typicode"
    },
-   "dashboard":[
+   "dashboard":
       {
          "emprendedoresSinIActividad":639,
          "estado":1,
@@ -19,5 +19,5 @@
          "porcentajeSii":33,
          "compMesAnteriorSii":"Mas que en el SII"
       }
-   ]
+   
 }
