@@ -1,14 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-  {
+   "posts":[
+      {
+         "id":1,
+         "title":"hello"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
    "dashboard":[
       {
          "emprendedoresSinIActividad":639,
@@ -21,5 +20,4 @@
          "compMesAnteriorSii":"Mas que en el SII"
       }
    ]
-
 }
