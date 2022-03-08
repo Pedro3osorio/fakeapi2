@@ -7,13 +7,32 @@
    ],
    "data":[
       {
+         "mes":"enero",
          "valor":"50"
       },
       {
+         "mes":"febrero",
          "valor":"60"
       },
       {
+         "mes":"marzo",
          "valor":"70"
+      },
+      {
+         "mes":"abril",
+         "valor":"60"
+      },
+      {
+         "mes":"mayo",
+         "valor":"60"
+      },
+      {
+         "mes":"junio",
+         "valor":"60"
+      },
+      {
+         "mes":"julio",
+         "valor":"60"
       }
    ],
    "profile":{
