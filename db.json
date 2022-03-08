@@ -8,61 +8,39 @@
    "data":[
       {
          "mes":"enero",
-         "valor":"50"
+         "valor":"50",
+         "valorSIA": "10"
       },
       {
          "mes":"febrero",
-         "valor":"60"
+         "valor":"60",
+         "valorSIA": "1"
       },
       {
          "mes":"marzo",
-         "valor":"80"
+         "valor":"80",
+         "valorSIA": "8"
       },
       {
          "mes":"abril",
-         "valor":"81"
+         "valor":"81",
+         "valorSIA": "181"
       },
       {
          "mes":"mayo",
-         "valor":"56"
+         "valor":"56",
+         "valorSIA": "5"
+         
       },
       {
          "mes":"junio",
-         "valor":"55"
+         "valor":"55",
+         "valorSIA": "25"
       },
       {
          "mes":"julio",
-         "valor":"40"
-      }
-   ],
-   "dataSIActividad":[
-      {
-         "mes":"enero",
-         "valor":"10"
-      },
-      {
-         "mes":"febrero",
-         "valor":"1"
-      },
-      {
-         "mes":"marzo",
-         "valor":"8"
-      },
-      {
-         "mes":"abril",
-         "valor":"181"
-      },
-      {
-         "mes":"mayo",
-         "valor":"5"
-      },
-      {
-         "mes":"junio",
-         "valor":"25"
-      },
-      {
-         "mes":"julio",
-         "valor":"140"
+         "valor":"40",
+         "valorSIA": "141"
       }
    ],
    "profile":{
