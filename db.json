@@ -42,21 +42,41 @@
          "valorSIA":"141"
       }
    ],
-   "usoDeSueloTarta":[
+   "usoDeSuelo":[
       {
-         "valor":"300"
+         "mes":"enero",
+         "valor":"50",
+         "valorSIA":"10"
       },
       {
-         "valor":"135"
+         "mes":"febrero",
+         "valor":"60",
+         "valorSIA":"1"
       },
       {
-         "valor":"46"
+         "mes":"marzo",
+         "valor":"80",
+         "valorSIA":"8"
       },
       {
-         "valor":"5"
+         "mes":"abril",
+         "valor":"81",
+         "valorSIA":"181"
       },
       {
-         "valor":"154"
+         "mes":"mayo",
+         "valor":"56",
+         "valorSIA":"5"
+      },
+      {
+         "mes":"junio",
+         "valor":"55",
+         "valorSIA":"25"
+      },
+      {
+         "mes":"julio",
+         "valor":"40",
+         "valorSIA":"141"
       }
    ],
    "profile":{
