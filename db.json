@@ -1,5 +1,4 @@
 {
-   
    "data":[
       {
          "mes":"enero",
@@ -35,6 +34,23 @@
          "mes":"julio",
          "valor":"40",
          "valorSIA":"141"
+      }
+   ],
+   "usoDeSueloTarta":[
+      {
+         "valor":"300"
+      },
+      {
+         "valor":"135"
+      },
+      {
+         "valor":"46"
+      },
+      {
+         "valor":"5"
+      },
+      {
+         "valor":"154"
       }
    ],
    "profile":{
