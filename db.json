@@ -67,5 +67,27 @@
          "porcentajeSii":33,
          "compMesAnteriorSii":"Mas que en el SII"
       }
+   ],
+   "coberturaSuelo":[
+      {
+         "amenazaNat":"volcan llaima",
+         "superficie":"276"
+      },
+      {
+         "amenazaNat":"volcan sollipulli",
+         "superficie":"164"
+      },
+      {
+         "amenazaNat":"Parque nacional Conguillío",
+         "superficie":"308"
+      },
+      {
+         "amenazaNat":"Parque nacional Villarica",
+         "superficie":"1"
+      },
+      {
+         "amenazaNat":"Reserva naciona China muerta",
+         "superficie":"7"
+      }
    ]
 }
