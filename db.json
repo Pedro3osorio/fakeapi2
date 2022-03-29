@@ -71,19 +71,15 @@
    "coberturaSuelo":[
       {
          "amenazaNat":"volcan llaima",
-         "superficie":"276"
-      },
-      {
-         "amenazaNat":"volcan sollipulli",
-         "superficie":"164"
-      },
-      {
+         "superficie":"276",
          "sitSigNat":"Parque nacional Conguillío",
          "superficieSit":"308"
       },
       {
-         "sitSigNat":"Parque nacional Villarica",
-         "superficieSit":"1"
+         "amenazaNat":"volcan sollipulli",
+         "superficie":"164",
+         "sitSigNat":"Parque nacional Conguillío",
+         "superficieSit":"308"
       },
       {
          "sitSigNat":"Reserva naciona China muerta",
