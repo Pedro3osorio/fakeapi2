@@ -78,16 +78,16 @@
          "superficie":"164"
       },
       {
-         "amenazaNat":"Parque nacional Conguillío",
-         "superficie":"308"
+         "sitSigNat":"Parque nacional Conguillío",
+         "superficieSit":"308"
       },
       {
-         "amenazaNat":"Parque nacional Villarica",
-         "superficie":"1"
+         "sitSigNat":"Parque nacional Villarica",
+         "superficieSit":"1"
       },
       {
-         "amenazaNat":"Reserva naciona China muerta",
-         "superficie":"7"
+         "sitSigNat":"Reserva naciona China muerta",
+         "superficieSit":"7"
       }
    ]
 }
