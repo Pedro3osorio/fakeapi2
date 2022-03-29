@@ -70,15 +70,15 @@
    ],
    "coberturaSuelo":[
       {
-         "amenazaNat":"volcan llaima",
+         "amenazaNat":"Volcan Llaima",
          "superficie":"276",
          "sitSigNat":"Parque nacional Conguillío",
          "superficieSit":"308"
       },
       {
-         "amenazaNat":"volcan sollipulli",
+         "amenazaNat":"Volcan Sollipulli",
          "superficie":"164",
-         "sitSigNat":"Parque nacional Conguillío",
+         "sitSigNat":"Parque Nacional Villarrica",
          "superficieSit":"1"
       },
       {
